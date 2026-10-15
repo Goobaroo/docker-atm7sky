@@ -1,4 +1,4 @@
-# [Atm7 Sky 1.2.3](https://www.curseforge.com/minecraft/modpacks/all-the-mods-7-to-the-sky) on Curseforge
+# [Atm7 Sky 1.2.3](https://www.curseforge.com/minecraft/modpacks/all-the-mods-7-sky) on Curseforge
 
 <!-- toc -->
 
